@@ -1,0 +1,51 @@
+<h1>Ergo illi intellegunt quid Epicurus dicat, ego non intellego?</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duo Reges: constructio interrete. Si ad corpus pertinentibus, rationes tuas te video compensare cum istis doloribus, non memoriam corpore perceptarum voluptatum; Ita relinquet duas, de quibus etiam atque etiam consideret. Quamquam in hac divisione rem ipsam prorsus probo, elegantiam desidero. <a href='http://loripsum.net/' target='_blank'>Frater et T.</a> <code>Equidem e Cn.</code> Quid, cum volumus nomina eorum, qui quid gesserint, nota nobis esse, parentes, patriam, multa praeterea minime necessaria? <mark>Memini me adesse P.</mark> </p>
+
+<dl>
+	<dt><dfn>Id enim natura desiderat.</dfn></dt>
+	<dd>Terram, mihi crede, ea lanx et maria deprimet.</dd>
+	<dt><dfn>Quo modo?</dfn></dt>
+	<dd>Theophrasti igitur, inquit, tibi liber ille placet de beata vita?</dd>
+	<dt><dfn>Numquam facies.</dfn></dt>
+	<dd>Fortitudinis quaedam praecepta sunt ac paene leges, quae effeminari virum vetant in dolore.</dd>
+	<dt><dfn>Qui convenit?</dfn></dt>
+	<dd>At modo dixeras nihil in istis rebus esse, quod interesset.</dd>
+</dl>
+
+
+<blockquote cite='http://loripsum.net'>
+	Quodsi, ne quo incommodo afficiare, non relinques amicum, tamen, ne sine fructu alligatus sis, ut moriatur optabis.
+</blockquote>
+
+
+<h2>Non est igitur voluptas bonum.</h2>
+
+<p>Quare obscurentur etiam haec, quae secundum naturam esse dicimus, in vita beata; Huius, Lyco, oratione locuples, rebus ipsis ielunior. Roges enim Aristonem, bonane ei videantur haec: vacuitas doloris, divitiae, valitudo; Dolere malum est: in crucem qui agitur, beatus esse non potest. Praeterea et appetendi et refugiendi et omnino rerum gerendarum initia proficiscuntur aut a voluptate aut a dolore. O magnam vim ingenii causamque iustam, cur nova existeret disciplina! Perge porro. <mark>Haec dicuntur inconstantissime.</mark> Hanc se tuus Epicurus omnino ignorare dicit quam aut qualem esse velint qui honestate summum bonum metiantur. <a href='http://loripsum.net/' target='_blank'>Bonum liberi: misera orbitas.</a> An haec ab eo non dicuntur? </p>
+
+<pre>
+Sic est igitur locutus: Quantus ornatus in Peripateticorum
+disciplina sit satis est a me, ut brevissime potuit, paulo
+ante dictum.
+
+Utinam quidem dicerent alium alio beatiorem! Iam ruinas
+videres.
+</pre>
+
+
+<p>Ea, quae dialectici nunc tradunt et docent, nonne ab illis instituta sunt aut inventa sunt? <b>Quis hoc dicit?</b> Vide, ne magis, inquam, tuum fuerit, cum re idem tibi, quod mihi, videretur, non nova te rebus nomina inponere. <a href='http://loripsum.net/' target='_blank'>Si id dicis, vicimus.</a> Laelius clamores sofòw ille so lebat Edere compellans gumias ex ordine nostros. Nec vero audiendus Hieronymus, cui summum bonum est idem, quod vos interdum vel potius nimium saepe dicitis, nihil dolere. Quis enim potest ea, quae probabilia videantur ei, non probare? Minime vero probatur huic disciplinae, de qua loquor, aut iustitiam aut amicitiam propter utilitates adscisci aut probari. Itaque non discedit ab eorum curatione, quibus praeposita vitam omnem debet gubernare, ut mirari satis istorum inconstantiam non possim. <a href='http://loripsum.net/' target='_blank'>Age sane, inquam.</a> <mark>Stoici scilicet.</mark> Ita multo sanguine profuso in laetitia et in victoria est mortuus. </p>
+
+<p><i>Quod quidem nobis non saepe contingit.</i> <b>Si longus, levis.</b> Illo enim addito iuste fit recte factum, per se autem hoc ipsum reddere in officio ponitur. Prodest, inquit, mihi eo esse animo. Itaque ne iustitiam quidem recte quis dixerit per se ipsam optabilem, sed quia iucunditatis vel plurimum afferat. Non semper, inquam; <b>Facillimum id quidem est, inquam.</b> <b>Quis est tam dissimile homini.</b> Quantum Aristoxeni ingenium consumptum videmus in musicis? <mark>At hoc in eo M.</mark> Tum ille timide vel potius verecunde: Facio, inquit. Res tota, Torquate, non doctorum hominum, velle post mortem epulis celebrari memoriam sui nominis. Quod si ita est, sequitur id ipsum, quod te velle video, omnes semper beatos esse sapientes. </p>
+
+<p><a href='http://loripsum.net/' target='_blank'>Praeclare hoc quidem.</a> Ego vero volo in virtute vim esse quam maximam; Quid me istud rogas? Is ita vivebat, ut nulla tam exquisita posset inveniri voluptas, qua non abundaret. <mark>Memini me adesse P.</mark> <b>Contineo me ab exemplis.</b> Servari enim iustitia nisi a forti viro, nisi a sapiente non potest. Venit ad extremum; Obsecro, inquit, Torquate, haec dicit Epicurus? Varietates autem iniurasque fortunae facile veteres philosophorum praeceptis instituta vita superabat. </p>
+
+<p>Suam denique cuique naturam esse ad vivendum ducem. Quod enim vituperabile est per se ipsum, id eo ipso vitium nominatum puto, vel etiam a vitio dictum vituperari. <i>Cur post Tarentum ad Archytam?</i> <mark>ALIO MODO.</mark> Suam denique cuique naturam esse ad vivendum ducem. Fortasse id optimum, sed ubi illud: Plus semper voluptatis? Satis est tibi in te, satis in legibus, satis in mediocribus amicitiis praesidii. Et quidem iure fortasse, sed tamen non gravissimum est testimonium multitudinis. -delector enim, quamquam te non possum, ut ais, corrumpere, delector, inquam, et familia vestra et nomine. </p>
+
+<ul>
+	<li>Egone non intellego, quid sit don Graece, Latine voluptas?</li>
+	<li>Non igitur potestis voluptate omnia dirigentes aut tueri aut retinere virtutem.</li>
+	<li>Hoc etsi multimodis reprehendi potest, tamen accipio, quod dant.</li>
+	<li>Utrum igitur tibi litteram videor an totas paginas commovere?</li>
+</ul>
+
+

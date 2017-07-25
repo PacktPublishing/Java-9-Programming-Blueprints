@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Monumentum</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="monumentum.css">
+        <script src="https://unpkg.com/vue"></script>
+        <script src="https://unpkg.com/vuex"></script>
+        <script type="text/javascript" src="webjars/ckeditor/4.6.2/standard/ckeditor.js"></script>
+    </head>
+    <body>
+        <div id="app">
+            <navbar></navbar>
+            <note-list v-bind:notes="notes" v-if="isLoggedIn"></note-list>
+            <note-form v-if="isLoggedIn"></note-form>
+        </div>
+
+        <script type="text/x-template" id="navbar-template">
+            <div id="nav" style="grid-column: 1 / span 2; grid-row: 1 / 1;">
+                <a v-on:click="add" style="padding-right: 10px;">
+                    <img src="images/plus-225x225.png" height="20" width="20" alt="add">
+                </a>
+                <a v-on:click="logout" v-if="isLoggedIn">Logout</a>
+                <a v-if="!isLoggedIn" :href="authUrl" style="text-decoration: none">Login</a>
+            </div>
+        </script>
+        
+        <script type="text/x-template" id="note-list-template">
+            <div>
+                <h2>Notes:</h2>
+                <ul>
+                    <div class="note-list" v-for="(note,index) in notes" :key="note.id">
+                        <span :title="(note.created.getYear()+1900)+'/'+(note.created.getMonth()+1)+'/'+note.created.getDay()"
+                            v-on:click="loadNote(index,note);">
+                            {{ note.title }}
+                        </span>
+                        <a v-on:click="deleteNote(index, note);">
+                            <img src="images/x-225x225.png" height="20" width="20" alt="delete">
+                        </a>
+                    </div>
+                </ul>
+                <hr>
+            </div> 
+        </script>
+        <script type="text/x-template" id="note-form-template">
+            <div class="note-form">
+                <h2>{{ note.title }}</h2>
+                <form>
+                    <input id="noteid" type="hidden" v-model="note.id"></input>
+                    <input id="notedate" type="hidden" v-model="note.created"></input>
+                    <input id="notetitle" type="text" size="50" v-model="note.title"></input>
+                    <br/>
+                    <textarea id="notebody" style="width: 100%; height: 100%" v-model="note.body"></textarea>
+                    <br>
+                    <button type="button" v-on:click="save">Save</button>
+                </form>
+            </div>
+        </script>
+        <script type="text/javascript" src="monumentum.js"></script>
+    </body>
+</html>

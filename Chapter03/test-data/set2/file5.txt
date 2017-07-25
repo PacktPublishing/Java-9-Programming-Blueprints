@@ -1,0 +1,45 @@
+<h1>Profectus in exilium Tubulus statim nec respondere ausus;</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <i>Quam ob rem tandem, inquit, non satisfacit?</i> Idcirco enim non desideraret, quia, quod dolore caret, id in voluptate est. Duo Reges: constructio interrete. Sunt etiam turpitudines plurimae, quae, nisi honestas natura plurimum valeat, cur non cadant in sapientem non est facile defendere. <a href='http://loripsum.net/' target='_blank'>Haec dicuntur inconstantissime.</a> Haec qui audierit, ut ridere non curet, discedet tamen nihilo firmior ad dolorem ferendum, quam venerat. </p>
+
+<pre>
+Audax negotium, dicerem impudens, nisi hoc institutum postea
+translatum ad philosophos nostros esset.
+
+Quia, si mala sunt, is, qui erit in iis, beatus non erit.
+</pre>
+
+
+<dl>
+	<dt><dfn>Istic sum, inquit.</dfn></dt>
+	<dd>Legimus tamen Diogenem, Antipatrum, Mnesarchum, Panaetium, multos alios in primisque familiarem nostrum Posidonium.</dd>
+	<dt><dfn>Haeret in salebra.</dfn></dt>
+	<dd>Illa sunt similia: hebes acies est cuipiam oculorum, corpore alius senescit;</dd>
+</dl>
+
+
+<p><b>Maximus dolor, inquit, brevis est.</b> Non enim in selectione virtus ponenda erat, ut id ipsum, quod erat bonorum ultimum, aliud aliquid adquireret. His singulis copiose responderi solet, sed quae perspicua sunt longa esse non debent. Sed ego in hoc resisto; Te ipsum, dignissimum maioribus tuis, voluptasne induxit, ut adolescentulus eriperes P. <i>Quid ad utilitatem tantae pecuniae?</i> Etsi qui potest intellegi aut cogitari esse aliquod animal, quod se oderit? Ita relinquet duas, de quibus etiam atque etiam consideret. <a href='http://loripsum.net/' target='_blank'>Prodest, inquit, mihi eo esse animo.</a> <a href='http://loripsum.net/' target='_blank'>Graccho, eius fere, aequalí?</a> Nunc agendum est subtilius. At iam decimum annum in spelunca iacet. Iam quae corporis sunt, ea nec auctoritatem cum animi partibus, comparandam et cognitionem habent faciliorem. </p>
+
+<p>Ubi ut eam caperet aut quando? Graece donan, Latine voluptatem vocant. Quae duo sunt, unum facit. Quo modo autem optimum, si bonum praeterea nullum est? Si autem id non concedatur, non continuo vita beata tollitur. <i>Sed nimis multa.</i> Tenesne igitur, inquam, Hieronymus Rhodius quid dicat esse summum bonum, quo putet omnia referri oportere? Earum etiam rerum, quas terra gignit, educatio quaedam et perfectio est non dissimilis animantium. Cenasti in vita numquam bene, cum omnia in ista Consumis squilla atque acupensere cum decimano. Itaque si aut requietem natura non quaereret aut eam posset alia quadam ratione consequi. Comprehensum, quod cognitum non habet? Similiter sensus, cum accessit ad naturam, tuetur illam quidem, sed etiam se tuetur; </p>
+
+<h2>Quid autem habent admirationis, cum prope accesseris?</h2>
+
+<p>Est igitur officium eius generis, quod nec in bonis ponatur nec in contrariis. Nec tamen ullo modo summum pecudis bonum et hominis idem mihi videri potest. Nam illud vehementer repugnat, eundem beatum esse et multis malis oppressum. Vide, ne etiam menses! nisi forte eum dicis, qui, simul atque arripuit, interficit. Cum salvum esse flentes sui respondissent, rogavit essentne fusi hostes. Et hi quidem ita non sola virtute finem bonorum contineri putant, ut rebus tamen omnibus virtutem anteponant; <b>Iam in altera philosophiae parte.</b> Multa sunt dicta ab antiquis de contemnendis ac despiciendis rebus humanis; </p>
+
+<blockquote cite='http://loripsum.net'>
+	Reperiam multos, vel innumerabilis potius, non tam curiosos nec tam molestos, quam vos estis, quibus, quid velim, facile persuadeam.
+</blockquote>
+
+
+<p>Saepe ab Aristotele, a Theophrasto mirabiliter est laudata per se ipsa rerum scientia; Obscura, inquit, quaedam esse confiteor, nec tamen ab illis ita dicuntur de industria, sed inest in rebus ipsis obscuritas. <b>Certe non potest.</b> <a href='http://loripsum.net/' target='_blank'>Sin aliud quid voles, postea.</a> Hanc se tuus Epicurus omnino ignorare dicit quam aut qualem esse velint qui honestate summum bonum metiantur. Fortasse id optimum, sed ubi illud: Plus semper voluptatis? </p>
+
+<ul>
+	<li>Consequatur summas voluptates non modo parvo, sed per me nihilo, si potest;</li>
+	<li>Itaque quantum adiit periculum! ad honestatem enim illum omnem conatum suum referebat, non ad voluptatem.</li>
+	<li>Quodcumque in mentem incideret, et quodcumque tamquam occurreret.</li>
+	<li>Mihi vero, inquit, placet agi subtilius et, ut ipse dixisti, pressius.</li>
+	<li>Idem etiam dolorem saepe perpetiuntur, ne, si id non faciant, incidant in maiorem.</li>
+	<li>Hic, qui utrumque probat, ambobus debuit uti, sicut facit re, neque tamen dividit verbis.</li>
+</ul>
+
+

@@ -1,0 +1,30 @@
+Configuration:
+  status: info
+
+  Appenders:
+    Console:
+      name: CONSOLE
+      target: SYSTEM_OUT
+      PatternLayout:
+        Pattern: "%d{ISO8601} %-5p [%c{3}] [%t] %m%n"
+#    RollingFile:
+#      - name: APPLICATION
+#        fileName: ../logs/my-app.log
+#        filePattern: "../logs/$${date:yyyy-MM}/my-app-%d{yyyy-MM-dd}-%i.log.gz"
+#        PatternLayout:
+#          Pattern: "%d{ISO8601} %-5p [%c{3}] [%t] %m%n"
+#        policies:
+#          TimeBasedTriggeringPolicy:
+#            interval: 1
+#            modulate: true
+  Loggers:
+      Root:
+        level: debug
+        AppenderRef:
+          - ref: CONSOLE
+      Logger:
+        - name: com.steeplesoft.dupefinder.lib
+          additivity: false
+          level: debug
+          AppenderRef:
+            - ref: CONSOLE

@@ -1,0 +1,114 @@
+<h1>Quae quo sunt excelsiores, eo dant clariora indicia naturae.</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed est forma eius disciplinae, sicut fere ceterarum, triplex: una pars est naturae, disserendi altera, vivendi tertia. Ergo et avarus erit, sed finite, et adulter, verum habebit modum, et luxuriosus eodem modo. Itaque, Torquate, cum diceres clamare Epicurum non posse iucunde vivi, nisi honeste et sapienter et iuste viveretur, tu ipse mihi gloriari videbare. Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt. Non ergo Epicurus ineruditus, sed ii indocti, qui, quae pueros non didicisse turpe est, ea putant usque ad senectutem esse discenda. Duo Reges: constructio interrete. Ut in geometria, prima si dederis, danda sunt omnia. Deinde disputat, quod cuiusque generis animantium statui deceat extremum. Hoc autem tempore, etsi multa in omni parte Athenarum sunt in ipsis locis indicia summorum virorum, tamen ego illa moveor exhedra. <a href='http://loripsum.net/' target='_blank'>Sed tamen intellego quid velit.</a> </p>
+
+<p><i>Sed ad rem redeamus;</i> Magni enim aestimabat pecuniam non modo non contra leges, sed etiam legibus partam. <b>Tum Torquatus: Prorsus, inquit, assentior;</b> Inquit, respondet: Quia, nisi quod honestum est, nullum est aliud bonum! Non quaero iam verumne sit; Fatebuntur Stoici haec omnia dicta esse praeclare, neque eam causam Zenoni desciscendi fuisse. <b>Illi enim inter se dissentiunt.</b> </p>
+
+<pre>
+Nobis enim ista quaesita, a nobis descripta, notata,
+praecepta sunt, omniumque rerum publicarum reetionis genera,
+status, mutationes, leges etiam et instituta ac mores
+civitatum perscripsimus.
+
+Bestiarum vero nullum iudicium puto.
+</pre>
+
+
+<dl>
+	<dt><dfn>Hic ambiguo ludimur.</dfn></dt>
+	<dd>Sin est etiam corpus, ista explanatio naturae nempe hoc effecerit, ut ea, quae ante explanationem tenebamus, relinquamus.</dd>
+	<dt><dfn>Facete M.</dfn></dt>
+	<dd>Idemque diviserunt naturam hominis in animum et corpus.</dd>
+	<dt><dfn>Quid vero?</dfn></dt>
+	<dd>Quaero igitur, quo modo hae tantae commendationes a natura profectae subito a sapientia relictae sint.</dd>
+	<dt><dfn>Immo alio genere;</dfn></dt>
+	<dd>Quacumque enim ingredimur, in aliqua historia vestigium ponimus.</dd>
+	<dt><dfn>Quae sequuntur igitur?</dfn></dt>
+	<dd>Tertium autem omnibus aut maximis rebus iis, quae secundum naturam sint, fruentem vivere.</dd>
+	<dt><dfn>Etiam beatissimum?</dfn></dt>
+	<dd>Sed in rebus apertissimis nimium longi sumus.</dd>
+</dl>
+
+
+<blockquote cite='http://loripsum.net'>
+	Quae cum ita sint, effectum est nihil esse malum, quod turpe non sit.
+</blockquote>
+
+
+<p>In enumerandis autem corporis commodis si quis praetermissam a nobis voluptatem putabit, in aliud tempus ea quaestio differatur. <mark>Quorum sine causa fieri nihil putandum est.</mark> Idne consensisse de Calatino plurimas gentis arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis voluptatibus? <a href='http://loripsum.net/' target='_blank'>Si id dicis, vicimus.</a> </p>
+
+<h5>Vestri haec verecundius, illi fortasse constantius.</h5>
+
+<p>Quid enim dicis omne animal, simul atque sit ortum, applicatum esse ad se diligendum esseque in se conservando occupatum? <a href='http://loripsum.net/' target='_blank'>Tollenda est atque extrahenda radicitus.</a> <code>Ut id aliis narrare gestiant?</code> <a href='http://loripsum.net/' target='_blank'>Qui est in parvis malis.</a> <i>Idemne, quod iucunde?</i> Itaque primos congressus copulationesque et consuetudinum instituendarum voluntates fieri propter voluptatem; Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Cur igitur easdem res, inquam, Peripateticis dicentibus verbum nullum est, quod non intellegatur? <i>Eam stabilem appellas.</i> Sed quia studebat laudi et dignitati, multum in virtute processerat. Quid, si reviviscant Platonis illi et deinceps qui eorum auditores fuerunt, et tecum ita loquantur? Cuius quidem, quoniam Stoicus fuit, sententia condemnata mihi videtur esse inanitas ista verborum. </p>
+
+<p>Ut proverbia non nulla veriora sint quam vestra dogmata. Is enim, qui occultus et tectus dicitur, tantum abest ut se indicet, perficiet etiam ut dolere alterius improbe facto videatur. Sed quanta sit alias, nunc tantum possitne esse tanta. </p>
+
+<h2>Neque solum ea communia, verum etiam paria esse dixerunt.</h2>
+
+<p>Et tamen tantis vectigalibus ad liberalitatem utens etiam sine hac Pyladea amicitia multorum te benivolentia praeclare tuebere et munies. Quis est tam dissimile homini. <mark>Et quidem, inquit, vehementer errat;</mark> Quod autem principium officii quaerunt, melius quam Pyrrho; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. <b>Dicimus aliquem hilare vivere;</b> <a href='http://loripsum.net/' target='_blank'>Facete M.</a> Non potes ergo ista tueri, Torquate, mihi crede, si te ipse et tuas cogitationes et studia perspexeris; Quae contraria sunt his, malane? Haec dicuntur inconstantissime. <i>Tibi hoc incredibile, quod beatissimum.</i> </p>
+
+<p>Facit enim ille duo seiuncta ultima bonorum, quae ut essent vera, coniungi debuerunt; Magna laus. <b>Etiam beatissimum?</b> <mark>Ita multa dicunt, quae vix intellegam.</mark> Quid enim ab antiquis ex eo genere, quod ad disserendum valet, praetermissum est? <code>Negat esse eam, inquit, propter se expetendam.</code> Atque his de rebus et splendida est eorum et illustris oratio. Esse enim quam vellet iniquus iustus poterat inpune. Hoc enim constituto in philosophia constituta sunt omnia. </p>
+
+<pre>
+Nec vero alia sunt quaerenda contra Carneadeam illam
+sententiam.
+
+Haec quo modo conveniant, non sane intellego.
+</pre>
+
+
+<h6>At iam decimum annum in spelunca iacet.</h6>
+
+<p>Quod quidem nobis non saepe contingit. <code>Bonum integritas corporis: misera debilitas.</code> Atqui reperies, inquit, in hoc quidem pertinacem; Licet hic rursus ea commemores, quae optimis verbis ab Epicuro de laude amicitiae dicta sunt. Videsne igitur Zenonem tuum cum Aristone verbis concinere, re dissidere, cum Aristotele et illis re consentire, verbis discrepare? Si enim Zenoni licuit, cum rem aliquam invenisset inusitatam, inauditum quoque ei rei nomen inponere, cur non liceat Catoni? Utinam quidem dicerent alium alio beatiorem! Iam ruinas videres. Vitae autem degendae ratio maxime quidem illis placuit quieta. </p>
+
+<h1>Haec bene dicuntur, nec ego repugno, sed inter sese ipsa pugnant.</h1>
+
+<p><i>Gerendus est mos, modo recte sentiat.</i> Tenesne igitur, inquam, Hieronymus Rhodius quid dicat esse summum bonum, quo putet omnia referri oportere? Cur post Tarentum ad Archytam? Illud mihi a te nimium festinanter dictum videtur, sapientis omnis esse semper beatos; Is ita vivebat, ut nulla tam exquisita posset inveniri voluptas, qua non abundaret. Nam et ille apud Trabeam voluptatem animi nimiam laetitiam dicit eandem, quam ille Caecilianus, qui omnibus laetitiis laetum esse se narrat. <a href='http://loripsum.net/' target='_blank'>Sed potestne rerum maior esse dissensio?</a> </p>
+
+<ul>
+	<li>Haec bene dicuntur, nec ego repugno, sed inter sese ipsa pugnant.</li>
+	<li>Restinguet citius, si ardentem acceperit.</li>
+	<li>Quid est igitur, cur ita semper deum appellet Epicurus beatum et aeternum?</li>
+	<li>Equidem soleo etiam quod uno Graeci, si aliter non possum, idem pluribus verbis exponere.</li>
+</ul>
+
+
+<h4>Illud mihi a te nimium festinanter dictum videtur, sapientis omnis esse semper beatos;</h4>
+
+<p>Nam si beatus umquam fuisset, beatam vitam usque ad illum a Cyro extructum rogum pertulisset. Ratio ista, quam defendis, praecepta, quae didicisti, quae probas, funditus evertunt amicitiam, quamvis eam Epicurus, ut facit, in caelum efferat laudibus. Licet hic rursus ea commemores, quae optimis verbis ab Epicuro de laude amicitiae dicta sunt. Quasi vero, inquit, perpetua oratio rhetorum solum, non etiam philosophorum sit. Pudebit te, inquam, illius tabulae, quam Cleanthes sane commode verbis depingere solebat. Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia. Quid ergo attinet dicere: Nihil haberem, quod reprehenderem, si finitas cupiditates haberent? Hic Speusippus, hic Xenocrates, hic eius auditor Polemo, cuius illa ipsa sessio fuit, quam videmus. Nam si propter voluptatem, quae est ista laus, quae possit e macello peti? <i>Tenent mordicus.</i> </p>
+
+<blockquote cite='http://loripsum.net'>
+	Iubet igitur nos Pythius Apollo noscere nosmet ipsos.
+</blockquote>
+
+
+<dl>
+	<dt><dfn>Sed videbimus.</dfn></dt>
+	<dd>Modo etiam paulum ad dexteram de via declinavi, ut ad Pericli sepulcrum accederem.</dd>
+	<dt><dfn>Tubulo putas dicere?</dfn></dt>
+	<dd>Istam voluptatem, inquit, Epicurus ignorat?</dd>
+	<dt><dfn>Si quae forte-possumus.</dfn></dt>
+	<dd>Modo etiam paulum ad dexteram de via declinavi, ut ad Pericli sepulcrum accederem.</dd>
+	<dt><dfn>Poterat autem inpune;</dfn></dt>
+	<dd>At ille non pertimuit saneque fidenter: Istis quidem ipsis verbis, inquit;</dd>
+	<dt><dfn>Sed videbimus.</dfn></dt>
+	<dd>Aperiendum est igitur, quid sit voluptas;</dd>
+	<dt><dfn>Quonam, inquit, modo?</dfn></dt>
+	<dd>Audeo dicere, inquit.</dd>
+</dl>
+
+
+<p>Nam Metrodorum non puto ipsum professum, sed, cum appellaretur ab Epicuro, repudiare tantum beneficium noluisse; <a href='http://loripsum.net/' target='_blank'>Faceres tu quidem, Torquate, haec omnia;</a> Quid ergo dubitamus, quin, si non dolere voluptas sit summa, non esse in voluptate dolor sit maximus? Atque his de rebus et splendida est eorum et illustris oratio. Sin te auctoritas commovebat, nobisne omnibus et Platoni ipsi nescio quem illum anteponebas? <code>Nos vero, inquit ille;</code> Hoc enim constituto in philosophia constituta sunt omnia. Hic quoque suus est de summoque bono dissentiens dici vere Peripateticus non potest. </p>
+
+<ul>
+	<li>Eorum enim est haec querela, qui sibi cari sunt seseque diligunt.</li>
+	<li>Quae duo sunt, unum facit.</li>
+	<li>Sed tamen enitar et, si minus multa mihi occurrent, non fugiam ista popularia.</li>
+	<li>Duae sunt enim res quoque, ne tu verba solum putes.</li>
+</ul>
+
+
+<h3>Ut pulsi recurrant?</h3>
+
+<p>Quod quidem iam fit etiam in Academia. Ita prorsus, inquam; Facit enim ille duo seiuncta ultima bonorum, quae ut essent vera, coniungi debuerunt; <mark>Quid de Platone aut de Democrito loquar?</mark> Quae hic rei publicae vulnera inponebat, eadem ille sanabat. Inde sermone vario <i>[redacted]</i> illa a Dipylo stadia confecimus. </p>
+

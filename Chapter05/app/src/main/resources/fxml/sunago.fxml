@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+
+
+<BorderPane minHeight="480" minWidth="640" xmlns="http://javafx.com/javafx/8.0.60" 
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="com.steeplesoft.sunago.app.SunagoController">
+    <top>
+        <VBox>
+            <children>
+                <MenuBar>
+                    <menus>
+                        <Menu mnemonicParsing="true" text="_File">
+                            <items>
+                                <MenuItem onAction="#closeApplication" text="E_xit" />
+                            </items>
+                        </Menu>
+                        <Menu mnemonicParsing="true" text="_Edit">
+                            <items>
+                                <MenuItem onAction="#showPreferences" text="_Settings" />
+                            </items>
+                        </Menu>
+                        <Menu text="_Help">
+                            <items>
+                                <MenuItem onAction="#showAbout" text="About" />
+                            </items>
+                        </Menu>
+                    </menus>
+                </MenuBar>
+                <ToolBar >
+                    <items>
+                        <Button fx:id="refreshButton" />
+                        <Button fx:id="settingsButton" />
+                    </items>
+                </ToolBar>
+            </children>
+        </VBox>
+    </top>
+    <center>
+        <ListView fx:id="entriesListView"/>
+    </center>
+</BorderPane>

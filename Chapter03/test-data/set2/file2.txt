@@ -1,0 +1,46 @@
+<h1>Hoc loco tenere se Triarius non potuit.</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <i>[redacted]</i>tilio Rufo, cum is rem ad amicos ita deferret, se esse heredem Q. In quo etsi est magnus, tamen nova pleraque et perpauca de moribus. Immo alio genere; <i>Nullus est igitur cuiusquam dies natalis.</i> Duo Reges: constructio interrete. <code>Utilitatis causa amicitia est quaesita.</code> Bonum appello quicquid secundurn naturam est, quod contra malum, nec ego solus, sed tu etiam, Chrysippe, in foro, domi; Quid igitur, inquit, eos responsuros putas? Quam nemo umquam voluptatem appellavit, appellat; Nec hoc ille non vidit, sed verborum magnificentia est et gloria delectatus. <b>Nam quid possumus facere melius?</b> </p>
+
+<h2>Si longus, levis.</h2>
+
+<p><b>Equidem, sed audistine modo de Carneade?</b> <b>Non igitur bene.</b> At miser, si in flagitiosa et vitiosa vita afflueret voluptatibus. His enim rebus detractis negat se reperire in asotorum vita quod reprehendat. Quid igitur dubitamus in tota eius natura quaerere quid sit effectum? <a href='http://loripsum.net/' target='_blank'>At hoc in eo M.</a> Quae diligentissime contra Aristonem dicuntur a Chryippo. Itaque, ne si iucundissimis quidem nos somniis usuros putemus, Endymionis somnum nobis velimus dari, idque si accidat, mortis instar putemus. <a href='http://loripsum.net/' target='_blank'>De vacuitate doloris eadem sententia erit.</a> Et hercule-fatendum est enim, quod sentio -mirabilis est apud illos contextus rerum. <mark>Bonum patria: miserum exilium.</mark> Atque haec coniunctio confusioque virtutum tamen a philosophis ratione quadam distinguitur. </p>
+
+<dl>
+	<dt><dfn>Recte dicis;</dfn></dt>
+	<dd>Neque enim civitas in seditione beata esse potest nec in discordia dominorum domus;</dd>
+	<dt><dfn>Beatum, inquit.</dfn></dt>
+	<dd>Quare, quoniam de primis naturae commodis satis dietum est nunc de maioribus consequentibusque videamus.</dd>
+	<dt><dfn>A mene tu?</dfn></dt>
+	<dd>Hinc ceteri particulas arripere conati suam quisque videro voluit afferre sententiam.</dd>
+	<dt><dfn>Quid Zeno?</dfn></dt>
+	<dd>Sed in rebus apertissimis nimium longi sumus.</dd>
+	<dt><dfn>Haec dicuntur inconstantissime.</dfn></dt>
+	<dd>Qui potest igitur habitare in beata vita summi mali metus?</dd>
+</dl>
+
+
+<ul>
+	<li>Illa videamus, quae a te de amicitia dicta sunt.</li>
+	<li>Cuius tanta tormenta sunt, ut in iis beata vita, si modo dolor summum malum est, esse non possit.</li>
+	<li>Aut, Pylades cum sis, dices te esse Orestem, ut moriare pro amico?</li>
+	<li>Ut proverbia non nulla veriora sint quam vestra dogmata.</li>
+	<li>Nam his libris eum malo quam reliquo ornatu villae delectari.</li>
+	<li>Deinde qui fit, ut ego nesciam, sciant omnes, quicumque Epicurei esse voluerunt?</li>
+</ul>
+
+
+<blockquote cite='http://loripsum.net'>
+	Ergo et avarus erit, sed finite, et adulter, verum habebit modum, et luxuriosus eodem modo.
+</blockquote>
+
+
+<pre>
+Quem si tenueris, non modo meum Ciceronem, sed etiam me
+ipsum abducas licebit.
+
+At quanta conantur! Mundum hunc omnem oppidum esse nostrum!
+Incendi igitur eos, qui audiunt, vides.
+</pre>
+
+

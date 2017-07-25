@@ -1,0 +1,17 @@
+[
+    {
+        "serverName": "localhost",
+        "serverPort": "3025",
+        "useSsl": false,
+        "userName": "to@localhost.com",
+        "password": "password",
+        "rules": [
+            {"destFolder": "Ads","matchingText": "ad1@adco.net", "fields":"cc"},
+            {"destFolder": "Ads","matchingText": "newsletter@spam.com", "fields":"from"},
+            {"destFolder": "Ads","matchingText": "pmp@training.net", "fields":"from"},
+            {"destFolder": "Ads","matchingText": "joe.blow@blargh.net", "fields":"from"},
+            {"type": "delete", "matchingText":"joe.blow@blargh.net", "fields":"from"},
+            {"type": "delete", "olderThan" : 365}
+        ]
+    }
+] 

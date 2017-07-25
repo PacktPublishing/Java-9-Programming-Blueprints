@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sunago - Social Media Aggregrator</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_preferences">Sunago Preferences</string>
+
+    <!-- TODO: Remove or change this placeholder body -->
+    <string name="twitter_oauth_token">twitter_oauth_token</string>
+    <string name="twitter_oauth_secret">twitter_oauth_token_secret</string>
+    <string name="twitter_authd">twitter_authd</string>
+    <string name="twitter_request_token">twitter_request_token</string>
+    <string name="twitter_request_token_secret">twitter_request_token_secret</string>
+    <string name="twitter_selected_lists">twitter_selected_lists</string>
+    <string name="twitter_show_home_timeline">twitter_show_home_timeline</string>
+    <string name="item_count">item_count</string>
+    <string name="instagram_token">instagram_token</string>
+    <string name="instagram_token_secret">instagram_token_secret</string>
+    <string name="instagram_authd">instagram_authd</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+</resources>

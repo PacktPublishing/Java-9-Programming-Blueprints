@@ -1,0 +1,45 @@
+<h1>Magna laus.</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rationis enim perfectio est virtus; Theophrasti igitur, inquit, tibi liber ille placet de beata vita? <mark>Quis enim redargueret?</mark> <b>Equidem etiam Epicurum, in physicis quidem, Democriteum puto.</b> Iis igitur est difficilius satis facere, qui se Latina scripta dicunt contemnere. Tamen aberramus a proposito, et, ne longius, prorsus, inquam, Piso, si ista mala sunt, placet. </p>
+
+<p><a href='http://loripsum.net/' target='_blank'>Quid censes in Latino fore?</a> In sapientem solum cadit, isque finis bonorum, ut ab ipsis Stoicis scriptum videmus, a Xenocrate atque ab Aristotele constitutus est. Satis est tibi in te, satis in legibus, satis in mediocribus amicitiis praesidii. <i>Inde igitur, inquit, ordiendum est.</i> Nescio quo modo praetervolavit oratio. Negat esse eam, inquit, propter se expetendam. Etsi ea quidem, quae adhuc dixisti, quamvis ad aetatem recte isto modo dicerentur. <i>Mihi, inquam, qui te id ipsum rogavi?</i> Sed plane dicit quod intellegit. Minime vero probatur huic disciplinae, de qua loquor, aut iustitiam aut amicitiam propter utilitates adscisci aut probari. </p>
+
+<h2>Sed ego in hoc resisto;</h2>
+
+<p>Respondebo me non quaerere, inquam, hoc tempore quid virtus efficere possit, sed quid constanter dicatur, quid ipsum a se dissentiat. Nihil enim arbitror esse magna laude dignum, quod te praetermissurum credam aut mortis aut doloris metu. Nobis aliter videtur, recte secusne, postea; Nos paucis ad haec additis finem faciamus aliquando; <i>Bonum patria: miserum exilium.</i> <i>Quis non odit sordidos, vanos, leves, futtiles?</i> Quam si explicavisset, non tam haesitaret. Ad corpus diceres pertinere-, sed ea, quae dixi, ad corpusne refers? Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Nullis enim partitionibus, nullis definitionibus utuntur ipsique dicunt ea se modo probare, quibus natura tacita adsentiatur. </p>
+
+<p><mark>Duo Reges: constructio interrete.</mark> Nec lapathi suavitatem acupenseri Galloni Laelius anteponebat, sed suavitatem ipsam neglegebat; Non quam nostram quidem, inquit Pomponius iocans; Quibusnam praeteritis? <i>Quid enim?</i> Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia. Ut in voluptate sit, qui epuletur, in dolore, qui torqueatur. Tu enim ista lenius, hic Stoicorum more nos vexat. </p>
+
+<pre>
+Certe nihil nisi quod possit ipsum propter se iure laudari.
+
+In contemplatione et cognitione posita rerum, quae quia
+deorum erat vitae simillima, sapiente visa est dignissima.
+</pre>
+
+
+<ul>
+	<li>Quid, si etiam iucunda memoria est praeteritorum malorum?</li>
+	<li>Negat enim summo bono afferre incrementum diem.</li>
+</ul>
+
+
+<dl>
+	<dt><dfn>Tum ille: Ain tandem?</dfn></dt>
+	<dd>Et hi quidem ita non sola virtute finem bonorum contineri putant, ut rebus tamen omnibus virtutem anteponant;</dd>
+	<dt><dfn>Restatis igitur vos;</dfn></dt>
+	<dd>Quod dicit Epicurus etiam de voluptate, quae minime sint voluptates, eas obscurari saepe et obrui.</dd>
+	<dt><dfn>Paria sunt igitur.</dfn></dt>
+	<dd>Quid enim de amicitia statueris utilitatis causa expetenda vides.</dd>
+	<dt><dfn>Cyrenaici quidem non recusant;</dfn></dt>
+	<dd>Saepe ab Aristotele, a Theophrasto mirabiliter est laudata per se ipsa rerum scientia;</dd>
+	<dt><dfn>Ille incendat?</dfn></dt>
+	<dd>Si qua in iis corrigere voluit, deteriora fecit.</dd>
+</dl>
+
+
+<blockquote cite='http://loripsum.net'>
+	Et quis a Stoicis et quem ad modum diceretur, tamen ego quoque exponam, ut perspiciamus, si potuerimus, quidnam a Zenone novi sit allatum.
+</blockquote>
+
+

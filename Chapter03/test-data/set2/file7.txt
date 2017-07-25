@@ -1,0 +1,54 @@
+<h1>Utram tandem linguam nescio?</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Piso, familiaris noster, et alia multa et hoc loco Stoicos irridebat: Quid enim? Duo Reges: constructio interrete. Tum, Quintus et Pomponius cum idem se velle dixissent, Piso exorsus est. <a href='http://loripsum.net/' target='_blank'>Peccata paria.</a> Legimus tamen Diogenem, Antipatrum, Mnesarchum, Panaetium, multos alios in primisque familiarem nostrum Posidonium. Hoc dictum in una re latissime patet, ut in omnibus factis re, non teste moveamur. Atque haec coniunctio confusioque virtutum tamen a philosophis ratione quadam distinguitur. Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc? Cum vero paulum processerunt, lusionibus vel laboriosis delectantur, ut ne verberibus quidem deterreri possint, eaque cupiditas agendi aliquid adolescit una cum aetatibus. Ita relinquet duas, de quibus etiam atque etiam consideret. Explanetur igitur. Quaero igitur, quo modo hae tantae commendationes a natura profectae subito a sapientia relictae sint. Ab hoc autem quaedam non melius quam veteres, quaedam omnino relicta. <i>Haec igitur Epicuri non probo, inquam.</i> </p>
+
+<ul>
+	<li>Cum ageremus, inquit, vitae beatum et eundem supremum diem, scribebamus haec.</li>
+	<li>Hoc dixerit potius Ennius: Nimium boni est, cui nihil est mali.</li>
+	<li>Sed non sunt in eo genere tantae commoditates corporis tamque productae temporibus tamque multae.</li>
+</ul>
+
+
+<h3>Quasi ego id curem, quid ille aiat aut neget.</h3>
+
+<p>Tenuis Lucius Verginius unusque de multis <i>[redacted]</i>agesimo anno post libertatem receptam virginem filiam sua manu occidit potius, quam ea Ap. In quibus doctissimi illi veteres inesse quiddam caeleste et divinum putaverunt. Cum ageremus, inquit, vitae beatum et eundem supremum diem, scribebamus haec. Consequatur summas voluptates non modo parvo, sed per me nihilo, si potest; Ex quo intellegitur nec intemperantiam propter se esse fugiendam temperantiamque expetendam, non quia voluptates fugiat, sed quia maiores consequatur. Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Quid enim necesse est, tamquam meretricem in matronarum coetum, sic voluptatem in virtutum concilium adducere? <a href='http://loripsum.net/' target='_blank'>Quid nunc honeste dicit?</a> </p>
+
+<dl>
+	<dt><dfn>Ille incendat?</dfn></dt>
+	<dd>Est tamen ea secundum naturam multoque nos ad se expetendam magis hortatur quam superiora omnia.</dd>
+	<dt><dfn>Scrupulum, inquam, abeunti;</dfn></dt>
+	<dd>Sit ista in Graecorum levitate perversitas, qui maledictis insectantur eos, a quibus de veritate dissentiunt.</dd>
+	<dt><dfn>Easdemne res?</dfn></dt>
+	<dd>Bona autem corporis huic sunt, quod posterius posui, similiora.</dd>
+</dl>
+
+
+<h2>Portenta haec esse dicit, neque ea ratione ullo modo posse vivi;</h2>
+
+<p><mark>Avaritiamne minuis?</mark> Hinc ceteri particulas arripere conati suam quisque videro voluit afferre sententiam. Cum autem venissemus in Academiae non sine causa nobilitata spatia, solitudo erat ea, quam volueramus. Nemo enim est, qui aliter dixerit quin omnium naturarum simile esset id, ad quod omnia referrentur, quod est ultimum rerum appetendarum. <a href='http://loripsum.net/' target='_blank'>Quae sequuntur igitur?</a> <a href='http://loripsum.net/' target='_blank'>Cur post Tarentum ad Archytam?</a> <i>Quippe: habes enim a rhetoribus;</i> Plane idem, inquit, et maxima quidem, qua fieri nulla maior potest. Nam, ut sint illa vendibiliora, haec uberiora certe sunt. <a href='http://loripsum.net/' target='_blank'>Ut pulsi recurrant?</a> <b>Atqui reperies, inquit, in hoc quidem pertinacem;</b> <b>Disserendi artem nullam habuit.</b> Te ipsum, dignissimum maioribus tuis, voluptasne induxit, ut adolescentulus eriperes P. Qualem igitur hominem natura inchoavit? </p>
+
+<p>Itaque et vivere vitem et mori dicimus arboremque et novellan et vetulam et vigere et senescere. Nam, ut paulo ante docui, augendae voluptatis finis est doloris omnis amotio. Quid autem habent admirationis, cum prope accesseris? Dat enim intervalla et relaxat. Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia. <i>Sedulo, inquam, faciam.</i> Sed ne, dum huic obsequor, vobis molestus sim. Itaque primos congressus copulationesque et consuetudinum instituendarum voluntates fieri propter voluptatem; <i>Nulla erit controversia.</i> Oculorum, inquit Plato, est in nobis sensus acerrimus, quibus sapientiam non cernimus. </p>
+
+<p>Non quaero, quid dicat, sed quid convenienter possit rationi et sententiae suae dicere. Quis suae urbis conservatorem Codrum, quis Erechthei filias non maxime laudat? </p>
+
+<blockquote cite='http://loripsum.net'>
+	Ita, quod certissimum est, pro vera certaque iustitia simulationem nobis iustitiae traditis praecipitisque quodam modo ut nostram stabilem conscientiam contemnamus, aliorum errantem opinionem aucupemur.
+</blockquote>
+
+
+<p>Nihilne te delectat umquam -video, quicum loquar-, te igitur, Torquate, ipsum per se nihil delectat? Quem quidem vos, cum improbis poenam proponitis, inpetibilem facitis, cum sapientem semper boni plus habere vultis, tolerabilem. Nam si dicent ab illis has res esse tractatas, ne ipsos quidem Graecos est cur tam multos legant, quam legendi sunt. Propter nos enim illam, non propter eam nosmet ipsos diligimus. Cum autem in quo sapienter dicimus, id a primo rectissime dicitur. Illis videtur, qui illud non dubitant bonum dicere -; Quodcumque in mentem incideret, et quodcumque tamquam occurreret. Quodsi, ne quo incommodo afficiare, non relinques amicum, tamen, ne sine fructu alligatus sis, ut moriatur optabis. Quid enim me prohiberet Epicureum esse, si probarem, quae ille diceret? <b>An tu me de L.</b> </p>
+
+<h4>Quae diligentissime contra Aristonem dicuntur a Chryippo.</h4>
+
+<p>Non potes ergo ista tueri, Torquate, mihi crede, si te ipse et tuas cogitationes et studia perspexeris; Itaque nostrum est-quod nostrum dico, artis est-ad ea principia, quae accepimus. In quo etsi est magnus, tamen nova pleraque et perpauca de moribus. <mark>Prave, nequiter, turpiter cenabat;</mark> Et quidem Arcesilas tuus, etsi fuit in disserendo pertinacior, tamen noster fuit; Nec tamen ullo modo summum pecudis bonum et hominis idem mihi videri potest. Nam quibus rebus efficiuntur voluptates, eae non sunt in potestate sapientis. <b>Ita prorsus, inquam;</b> Aliter enim nosmet ipsos nosse non possumus. Si de re disceptari oportet, nulla mihi tecum, Cato, potest esse dissensio. <i>Eam stabilem appellas.</i> <b>Sed residamus, inquit, si placet.</b> Isto modo, ne si avia quidem eius nata non esset. Respondebo me non quaerere, inquam, hoc tempore quid virtus efficere possit, sed quid constanter dicatur, quid ipsum a se dissentiat. </p>
+
+<pre>
+Quae cum ita sint, effectum est nihil esse malum, quod turpe
+non sit.
+
+Non enim hilaritate nec lascivia nec risu aut ioco, comite
+levitatis, saepe etiam tristes firmitate et constantia sunt
+beati.
+</pre>
+
+

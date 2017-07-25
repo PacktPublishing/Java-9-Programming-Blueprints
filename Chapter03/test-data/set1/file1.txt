@@ -1,0 +1,39 @@
+<h1>Hoc est non modo cor non habere, sed ne palatum quidem.</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. An vero displicuit ea, quae tributa est animi virtutibus tanta praestantia? Qua tu etiam inprudens utebare non numquam. Duo Reges: constructio interrete. <a href='http://loripsum.net/' target='_blank'>Quae duo sunt, unum facit.</a> Nec enim, omnes avaritias si aeque avaritias esse dixerimus, sequetur ut etiam aequas esse dicamus. Et adhuc quidem ita nobis progresso ratio est, ut ea duceretur omnis a prima commendatione naturae. <mark>Haeret in salebra.</mark> Parvi enim primo ortu sic iacent, tamquam omnino sine animo sint. </p>
+
+<blockquote cite='http://loripsum.net'>
+	Utrum enim sit voluptas in iis rebus, quas primas secundum naturam esse diximus, necne sit ad id, quod agimus, nihil interest.
+</blockquote>
+
+
+<pre>
+Res enim fortasse verae, certe graves, non ita tractantur,
+ut debent, sed aliquanto minutius.
+
+Sed haec in pueris;
+</pre>
+
+
+<dl>
+	<dt><dfn>Memini vero, inquam;</dfn></dt>
+	<dd>Nec tamen ullo modo summum pecudis bonum et hominis idem mihi videri potest.</dd>
+	<dt><dfn>Tenent mordicus.</dfn></dt>
+	<dd>Idcirco enim non desideraret, quia, quod dolore caret, id in voluptate est.</dd>
+	<dt><dfn>Peccata paria.</dfn></dt>
+	<dd>Dulce amarum, leve asperum, prope longe, stare movere, quadratum rotundum.</dd>
+	<dt><dfn>Nihil illinc huc pervenit.</dfn></dt>
+	<dd>Itaque eos id agere, ut a se dolores, morbos, debilitates repellant.</dd>
+	<dt><dfn>At certe gravius.</dfn></dt>
+	<dd>Itaque si aut requietem natura non quaereret aut eam posset alia quadam ratione consequi.</dd>
+</dl>
+
+
+<ul>
+	<li>Itaque dicunt nec dubitant: mihi sic usus est, tibi ut opus est facto, fac.</li>
+	<li>Unum nescio, quo modo possit, si luxuriosus sit, finitas cupiditates habere.</li>
+	<li>Gracchum patrem non beatiorem fuisse quam fillum, cum alter stabilire rem publicam studuerit, alter evertere.</li>
+	<li>Non autem hoc: igitur ne illud quidem.</li>
+</ul>
+
+

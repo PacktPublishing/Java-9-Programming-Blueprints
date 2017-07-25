@@ -1,0 +1,101 @@
+<h1>Universa enim illorum ratione cum tota vestra confligendum puto.</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Illa videamus, quae a te de amicitia dicta sunt. <b>Omnia peccata paria dicitis.</b> <a href='http://loripsum.net/' target='_blank'>Istam voluptatem, inquit, Epicurus ignorat?</a> Satisne ergo pudori consulat, si quis sine teste libidini pareat? Hoc enim identidem dicitis, non intellegere nos quam dicatis voluptatem. Duo Reges: constructio interrete. Omnium enim rerum principia parva sunt, sed suis progressionibus usa augentur nec sine causa; Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. </p>
+
+<h3>Quis non odit sordidos, vanos, leves, futtiles?</h3>
+
+<p>Quid me istud rogas? <i>Si longus, levis.</i> <i>Venit ad extremum;</i> Multoque hoc melius nos veriusque quam Stoici. <a href='http://loripsum.net/' target='_blank'>Quis enim redargueret?</a> Quae cum magnifice primo dici viderentur, considerata minus probabantur. Itaque haec cum illis est dissensio, cum Peripateticis nulla sane. <a href='http://loripsum.net/' target='_blank'>Ego vero isti, inquam, permitto.</a> <a href='http://loripsum.net/' target='_blank'>Eaedem res maneant alio modo.</a> Sed audiamus ipsum: Compensabatur, inquit, tamen cum his omnibus animi laetitia, quam capiebam memoria rationum inventorumque nostrorum. </p>
+
+<blockquote cite='http://loripsum.net'>
+	Sic faciam igitur, inquit: unam rem explicabo, eamque maximam, de physicis alias, et quidem tibi et declinationem istam atomorum et magnitudinem solis probabo et Democriti errata ab Epicuro reprehensa et correcta permulta.
+</blockquote>
+
+
+<dl>
+	<dt><dfn>Quare attende, quaeso.</dfn></dt>
+	<dd>Nihil opus est exemplis hoc facere longius.</dd>
+	<dt><dfn>Immo alio genere;</dfn></dt>
+	<dd>Nonne igitur tibi videntur, inquit, mala?</dd>
+	<dt><dfn>Si longus, levis;</dfn></dt>
+	<dd>Sed ad haec, nisi molestum est, habeo quae velim.</dd>
+	<dt><dfn>Hunc vos beatum;</dfn></dt>
+	<dd>Ergo et avarus erit, sed finite, et adulter, verum habebit modum, et luxuriosus eodem modo.</dd>
+</dl>
+
+
+<h2>An hoc usque quaque, aliter in vita?</h2>
+
+<p><a href='http://loripsum.net/' target='_blank'>Vide, quantum, inquam, fallare, Torquate.</a> <code>Quae sequuntur igitur?</code> <i>Nos commodius agimus.</i> <code>Tecum optime, deinde etiam cum mediocri amico.</code> Hanc ergo intuens debet institutum illud quasi signum absolvere. Haeret in salebra. Satisne vobis videor pro meo iure in vestris auribus commentatus? Intellegi quidem, ut propter aliam quampiam rem, verbi gratia propter voluptatem, nos amemus; Nihilne te delectat umquam -video, quicum loquar-, te igitur, Torquate, ipsum per se nihil delectat? Quis istud possit, inquit, negare? Primum cur ista res digna odio est, nisi quod est turpis? <i>Laboro autem non sine causa;</i> Quod enim testimonium maius quaerimus, quae honesta et recta sint, ipsa esse optabilia per sese, cum videamus tanta officia morientis? Hoc positum in Phaedro a Platone probavit Epicurus sensitque in omni disputatione id fieri oportere. </p>
+
+<dl>
+	<dt><dfn>Eademne, quae restincta siti?</dfn></dt>
+	<dd>An ea, quae per vinitorem antea consequebatur, per se ipsa curabit?</dd>
+	<dt><dfn>Sed haec omittamus;</dfn></dt>
+	<dd>Scio enim esse quosdam, qui quavis lingua philosophari possint;</dd>
+	<dt><dfn>Quid iudicant sensus?</dfn></dt>
+	<dd>Immo istud quidem, inquam, quo loco quidque, nisi iniquum postulo, arbitratu meo.</dd>
+	<dt><dfn>Quo tandem modo?</dfn></dt>
+	<dd>Quando enim Socrates, qui parens philosophiae iure dici potest, quicquam tale fecit?</dd>
+</dl>
+
+
+<p>Nulla erit controversia. Magno hic ingenio, sed res se tamen sic habet, ut nimis imperiosi philosophi sit vetare meminisse. Iubet igitur nos Pythius Apollo noscere nosmet ipsos. Verum hoc loco sumo verbis his eandem certe vim voluptatis Epicurum nosse quam ceteros. <mark>Ita nemo beato beatior.</mark> Illud urgueam, non intellegere eum quid sibi dicendum sit, cum dolorem summum malum esse dixerit. </p>
+
+<h5>Eam si varietatem diceres, intellegerem, ut etiam non dicente te intellego;</h5>
+
+<p>Vide ne ista sint Manliana vestra aut maiora etiam, si imperes quod facere non possim. <a href='http://loripsum.net/' target='_blank'>Hoc simile tandem est?</a> <a href='http://loripsum.net/' target='_blank'>Iam in altera philosophiae parte.</a> In voluptate corporis-addam, si vis, animi, dum ea ipsa, ut vultis, sit e corpore-situm est vivere beate. Nam, ut saepe iam dixi, in infirma aetate inbecillaque mente vis naturae quasi per caliginem cernitur; <mark>Respondeat totidem verbis.</mark> </p>
+
+<p>Quod quidem iam fit etiam in Academia. Illud mihi a te nimium festinanter dictum videtur, sapientis omnis esse semper beatos; Eorum enim est haec querela, qui sibi cari sunt seseque diligunt. Nunc dicam de voluptate, nihil scilicet novi, ea tamen, quae te ipsum probaturum esse confidam. Nam illud quidem adduci vix possum, ut ea, quae senserit ille, tibi non vera videantur. <a href='http://loripsum.net/' target='_blank'>Invidiosum nomen est, infame, suspectum.</a> Hoc autem loco tantum explicemus haec honesta, quae dico, praeterquam quod nosmet ipsos diligamus, praeterea suapte natura per se esse expetenda. <b>Videsne quam sit magna dissensio?</b> Ita relinquet duas, de quibus etiam atque etiam consideret. Hoc ipsum elegantius poni meliusque potuit. <mark>Quid ad utilitatem tantae pecuniae?</mark> Si vero id etiam explanare velles apertiusque diceres nihil eum fecisse nisi voluptatis causa, quo modo eum tandem laturum fuisse existimas? </p>
+
+<ul>
+	<li>Nulla profecto est, quin suam vim retineat a primo ad extremum.</li>
+	<li>An potest, inquit ille, quicquam esse suavius quam nihil dolere?</li>
+	<li>Quare hoc videndum est, possitne nobis hoc ratio philosophorum dare.</li>
+	<li>An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P.</li>
+	<li>Iubet igitur nos Pythius Apollo noscere nosmet ipsos.</li>
+	<li>Omnia contraria, quos etiam insanos esse vultis.</li>
+</ul>
+
+
+<ul>
+	<li>In his igitur partibus duabus nihil erat, quod Zeno commutare gestiret.</li>
+	<li>Eorum enim omnium multa praetermittentium, dum eligant aliquid, quod sequantur, quasi curta sententia;</li>
+	<li>Tantum dico, magis fuisse vestrum agere Epicuri diem natalem, quam illius testamento cavere ut ageretur.</li>
+	<li>An est aliquid per se ipsum flagitiosum, etiamsi nulla comitetur infamia?</li>
+</ul>
+
+
+<p>Itaque sensibus rationem adiunxit et ratione effecta sensus non reliquit. Quem ad modum quis ambulet, sedeat, qui ductus oris, qui vultus in quoque sit? Illa argumenta propria videamus, cur omnia sint paria peccata. Inquit, an parum disserui non verbis Stoicos a Peripateticis, sed universa re et tota sententia dissidere? <a href='http://loripsum.net/' target='_blank'>Restatis igitur vos;</a> Sit enim idem caecus, debilis. Atque etiam valítudinem, vires, vacuitatem doloris non propter utilitatem solum, sed etiam ipsas propter se expetemus. Non enim iam stirpis bonum quaeret, sed animalis. </p>
+
+<pre>
+Quodsi vultum tibi, si incessum fingeres, quo gravior
+viderere, non esses tui similis;
+
+Longum est enim ad omnia respondere, quae a te dicta sunt.
+</pre>
+
+
+<p>Hoc est non modo cor non habere, sed ne palatum quidem. <b>Age sane, inquam.</b> Tu vero, inquam, ducas licet, si sequetur; Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat Epicurus voluptatem. Non ergo Epicurus ineruditus, sed ii indocti, qui, quae pueros non didicisse turpe est, ea putant usque ad senectutem esse discenda. Non enim solum Torquatus dixit quid sentiret, sed etiam cur. Quod autem satis est, eo quicquid accessit, nimium est; Cur ipse Pythagoras et Aegyptum lustravit et Persarum magos adiit? Ex quo illud efficitur, qui bene cenent omnis libenter cenare, qui libenter, non continuo bene. An vero, inquit, quisquam potest probare, quod perceptfum, quod. </p>
+
+<p><code>Minime vero, inquit ille, consentit.</code> Quos nisi redarguimus, omnis virtus, omne decus, omnis vera laus deserenda est. Cave putes quicquam esse verius. Traditur, inquit, ab Epicuro ratio neglegendi doloris. Sed haec quidem liberius ab eo dicuntur et saepius. Quid in isto egregio tuo officio et tanta fide-sic enim existimo-ad corpus refers? In ipsa enim parum magna vis inest, ut quam optime se habere possit, si nulla cultura adhibeatur. Verba tu fingas et ea dicas, quae non sentias? </p>
+
+<pre>
+Nam ex his tribus laudibus, quas ante dixi, et temeritatem
+reformidat et non audet cuiquam aut dicto protervo aut facto
+nocere vereturque quicquam aut facere aut eloqui, quod parum
+virile videatur.
+
+Quae dici eadem de ceteris virtutibus possunt, quarum omnium
+fundamenta vos in voluptate tamquam in aqua ponitis.
+</pre>
+
+
+<h4>Sine ea igitur iucunde negat posse se vivere?</h4>
+
+<p><i>Sed videbimus.</i> Quae cum praeponunt, ut sit aliqua rerum selectio, naturam videntur sequi; <i>Ita nemo beato beatior.</i> <b>Quid Zeno?</b> Nihilne te delectat umquam -video, quicum loquar-, te igitur, Torquate, ipsum per se nihil delectat? <b>Aliter enim explicari, quod quaeritur, non potest.</b> Illa sunt similia: hebes acies est cuipiam oculorum, corpore alius senescit; Huius, Lyco, oratione locuples, rebus ipsis ielunior. Res enim fortasse verae, certe graves, non ita tractantur, ut debent, sed aliquanto minutius. <b>Venit ad extremum;</b> </p>
+
+<blockquote cite='http://loripsum.net'>
+	Suo enim quisque studio maxime ducitur.
+</blockquote>
+
+

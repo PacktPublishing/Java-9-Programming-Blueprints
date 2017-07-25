@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.web.WebView?>
+
+<StackPane id="parentPane" prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8.0.60" 
+           xmlns:fx="http://javafx.com/fxml/1" 
+           fx:controller="com.steeplesoft.sunago.api.fx.LoginController">
+    <children>
+        <WebView fx:id="webView" prefHeight="200.0" prefWidth="200.0" />
+    </children>
+</StackPane>

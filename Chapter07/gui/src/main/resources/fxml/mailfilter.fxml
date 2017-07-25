@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.collections.FXCollections?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.input.KeyCodeCombination?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import org.controlsfx.control.CheckListView?>
+
+<BorderPane prefHeight="900.0" prefWidth="1200.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.steeplesoft.mailfilter.gui.Controller">
+    <top>
+        <MenuBar BorderPane.alignment="CENTER">
+            <menus>
+                <Menu mnemonicParsing="false" text="File">
+                    <items>
+                        <MenuItem mnemonicParsing="false" onAction="#saveAccounts" text="Save">
+                            <accelerator>
+                                <KeyCodeCombination alt="UP" code="S" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+                            </accelerator>
+                        </MenuItem>
+                        <MenuItem mnemonicParsing="false" text="Close" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Edit">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="Delete" />
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Help">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="About" />
+                    </items>
+                </Menu>
+            </menus>
+        </MenuBar>
+    </top>
+    <left>
+        <VBox>
+            <children>
+                <GridPane>
+                    <columnConstraints>
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                        <RowConstraints minHeight="10.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                    <children>
+                        <Label text="Accounts">
+                            <font>
+                                <Font name="System Bold" size="15.0" />
+                            </font>
+                        </Label>
+                        <ButtonBar prefHeight="40.0" prefWidth="200.0" GridPane.columnIndex="1">
+                            <buttons>
+                                <Button mnemonicParsing="false" onAction="#addAccount" text="+" />
+                                <Button mnemonicParsing="false" onAction="#removeAccount" text="-" />
+                            </buttons>
+                        </ButtonBar>
+                    </children>
+                </GridPane>
+                <ListView fx:id="accountsListView" prefHeight="249.0" prefWidth="248.0" VBox.vgrow="ALWAYS" />
+                <GridPane alignment="BOTTOM_CENTER" vgap="2.0" VBox.vgrow="NEVER">
+                    <columnConstraints>
+                        <ColumnConstraints hgrow="ALWAYS" maxWidth="89.0" minWidth="10.0" prefWidth="80.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="182.0" minWidth="10.0" prefWidth="149.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                        <RowConstraints minHeight="10.0" vgrow="SOMETIMES" />
+                        <RowConstraints />
+                        <RowConstraints />
+                        <RowConstraints />
+                        <RowConstraints />
+                        <RowConstraints />
+                    </rowConstraints>
+                    <children>
+                        <Label text="Account Details" GridPane.columnIndex="0" GridPane.columnSpan="2" GridPane.rowIndex="0">
+                            <font>
+                                <Font name="System Bold" size="15.0" />
+                            </font>
+                        </Label>
+                        <Label text="Server" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+                        <TextField fx:id="serverName" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                        <Label text="Server Port" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+                        <TextField fx:id="serverPort" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                        <Label text="User Name" GridPane.columnIndex="0" GridPane.rowIndex="3" />
+                        <TextField fx:id="userName" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                        <Label text="Password" GridPane.columnIndex="0" GridPane.rowIndex="4" />
+                        <PasswordField fx:id="password" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                        <Label text="User SSL" GridPane.columnIndex="0" GridPane.rowIndex="5" />
+                        <CheckBox fx:id="useSsl" prefHeight="27.0" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+                    </children>
+                    <VBox.margin>
+                        <Insets top="5.0" />
+                    </VBox.margin>
+                </GridPane>
+            </children>
+            <BorderPane.margin>
+                <Insets />
+            </BorderPane.margin>
+            <padding>
+                <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+            </padding>
+        </VBox>
+    </left>
+    <center>
+    </center>
+    <center>
+        <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="TOP_LEFT">
+            <children>
+                <GridPane>
+                    <columnConstraints>
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                        <RowConstraints minHeight="10.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                    <children>
+                        <Label alignment="TOP_LEFT" text="Rules">
+                            <font>
+                                <Font name="System Bold" size="15.0" />
+                            </font>
+                        </Label>
+                        <ButtonBar prefHeight="40.0" prefWidth="200.0" GridPane.columnIndex="1">
+                            <buttons>
+                                <Button mnemonicParsing="false" onAction="#addRule" text="+" />
+                                <Button mnemonicParsing="false" onAction="#removeRule" text="-" />
+                            </buttons>
+                        </ButtonBar>
+                    </children>
+                </GridPane>
+                <TableView fx:id="rulesTableView" VBox.vgrow="ALWAYS">
+                    <columns>
+                        <TableColumn prefWidth="75.0" text="Type" />
+                        <TableColumn prefWidth="75.0" text="Source" />
+                        <TableColumn prefWidth="75.0" text="Description" />
+                    </columns>
+                </TableView>
+                <GridPane hgap="5.0" vgap="2.0">
+                    <rowConstraints>
+                        <RowConstraints />
+                        <RowConstraints />
+                        <RowConstraints />
+                        <RowConstraints />
+                        <RowConstraints />
+                        <RowConstraints />
+                        <RowConstraints />
+                    </rowConstraints>
+                    <children>
+                        <Label text="Rule Details" GridPane.columnSpan="2">
+                            <font>
+                                <Font name="System Bold" size="15.0" />
+                            </font>
+                        </Label>
+                        <Label text="Type" GridPane.rowIndex="1" />
+                        <Label text="Source Folder" GridPane.rowIndex="2" />
+                        <Label text="Destination Folder" GridPane.rowIndex="3" />
+                        <Label text="Age" GridPane.rowIndex="4" />
+                        <Label text="Matching Text" GridPane.rowIndex="5" />
+                        <Label text="Fields" GridPane.rowIndex="6" GridPane.valignment="TOP" />
+                        <ChoiceBox fx:id="type" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                            <items>
+                                <FXCollections fx:factory="observableArrayList">
+                                    <String fx:value="MOVE" />
+                                    <String fx:value="DELETE" />
+                                </FXCollections>
+                            </items>
+                        </ChoiceBox>
+                        <TextField fx:id="sourceFolder" GridPane.columnIndex="1" GridPane.hgrow="ALWAYS" GridPane.rowIndex="2" />
+                        <TextField fx:id="destFolder" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                        <TextField fx:id="age" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                        <TextField fx:id="matchingText" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+                        <!--<ChoiceBox fx:id="fields" GridPane.columnIndex="1" GridPane.rowIndex="6"/>-->
+                        <CheckListView fx:id="fields" prefHeight="147.0" prefWidth="248.0" GridPane.columnIndex="1" GridPane.rowIndex="6" GridPane.vgrow="NEVER">
+                            <items>
+                                <FXCollections fx:factory="observableArrayList">
+                                    <String fx:value="from" />
+                                    <String fx:value="to" />
+                                    <String fx:value="cc" />
+                                    <String fx:value="subject" />
+                                    <String fx:value="body" />
+                                </FXCollections>
+                            </items>
+                        </CheckListView>
+                    </children>
+                    <columnConstraints>
+                        <ColumnConstraints />
+                        <ColumnConstraints />
+                    </columnConstraints>
+                    <opaqueInsets>
+                        <Insets />
+                    </opaqueInsets>
+                    <padding>
+                        <Insets bottom="10.0" right="10.0" top="10.0" />
+                    </padding>
+                </GridPane>
+            </children>
+            <opaqueInsets>
+                <Insets />
+            </opaqueInsets>
+            <padding>
+                <Insets bottom="10.0" right="10.0" top="10.0" />
+            </padding>
+        </VBox>
+    </center>
+</BorderPane>

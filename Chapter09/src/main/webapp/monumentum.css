@@ -1,0 +1,17 @@
+#app{
+    display: grid;
+    grid-template-columns: 25% auto;
+}
+
+.note-list {
+    display: grid; 
+    grid-template-columns: auto 20px; 
+    padding-right: 10px;
+}
+
+.note-form {
+    padding: 0px 10px 0px 10px;
+}
+div {
+    /*border: 1px red solid;*/
+}

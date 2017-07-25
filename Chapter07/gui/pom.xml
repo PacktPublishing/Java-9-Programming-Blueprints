@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.steeplesoft</groupId>
+        <artifactId>mailfilter-master</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>mailfilter-gui</artifactId>
+    <name>MailFilter - GUI</name>
+    <packaging>jar</packaging>
+    
+    <properties>
+        <mainClass>com.steeplesoft.mailfilter.gui.MailFilter</mainClass>
+    </properties>
+    
+    <dependencies>
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>mailfilter-cli</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.controlsfx</groupId>
+            <artifactId>controlsfx</artifactId>
+            <version>8.40.12</version>
+        </dependency>
+        <!--
+        <dependency>
+            <groupId>org.jfxtras</groupId>
+            <artifactId>jfxtras-labs</artifactId>
+            <version>8.0-r5</version>
+        </dependency>
+        -->
+        <dependency>
+            <groupId>org.quartz-scheduler</groupId>
+            <artifactId>quartz</artifactId>
+            <version>2.2.3</version>
+        </dependency>
+    </dependencies>
+            
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>appassembler-maven-plugin</artifactId>
+                <version>2.0.0</version>
+                <executions>
+                    <execution>
+                        <id>generate-jsw-scripts</id>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>generate-daemons</goal>
+                        </goals>
+                        <configuration>
+                            <repositoryLayout>flat</repositoryLayout>
+                            <daemons>
+                                <daemon>
+                                    <id>mailfilter-service</id>
+                                    <wrapperMainClass>org.tanukisoftware.wrapper.WrapperSimpleApp</wrapperMainClass>
+                                    <mainClass>com.steeplesoft.mailfilter.service.MailFilterService</mainClass>
+                                    <commandLineArguments>
+                                        <commandLineArgument>start</commandLineArgument>
+                                    </commandLineArguments>
+                                    <platforms>
+                                        <platform>jsw</platform>
+                                    </platforms>
+                                    <generatorConfigurations>
+                                        <generatorConfiguration>
+                                            <generator>jsw</generator>
+                                            <includes>
+                                                <include>linux-x86-64</include>
+                                                <include>macosx-universal-64</include>
+                                                <include>windows-x86-64</include>
+                                            </includes>
+                                        </generatorConfiguration>
+                                    </generatorConfigurations>
+                                </daemon>
+                            </daemons>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <artifactId>maven-shade-plugin</artifactId>
+                <version>${plugin.shade}</version>
+                <executions>
+                    <execution>
+                        <!--<phase>package</phase>-->
+                        <goals>
+                            <goal>shade</goal>
+                        </goals>
+                        <configuration>
+                            <transformers>
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                    <mainClass>${mainClass}</mainClass>
+                                </transformer>
+                            </transformers>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+</project>

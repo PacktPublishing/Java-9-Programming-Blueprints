@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Monumentum - Log in success</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="monumentum.css">
+    </head>
+    <body>
+        <script type="text/javascript">
+            var urlParams = new URLSearchParams(window.location.search);
+            document.cookie = "Bearer" + "=" + urlParams.get('Bearer') + "; path=/";
+            window.location = "index.html";
+        </script>
+    </body>
+</html>

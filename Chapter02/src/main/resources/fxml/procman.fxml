@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ContextMenu?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.input.KeyCodeCombination?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane prefHeight="492.0" prefWidth="716.0" xmlns="http://javafx.com/javafx/8.0.60"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="com.steeplesoft.processmanager.Controller">
+    <top>
+        <MenuBar fx:id="menuBar" prefHeight="0.0" prefWidth="878.0" BorderPane.alignment="CENTER">
+            <menus>
+                <Menu mnemonicParsing="true" text="_File">
+                    <items>
+                        <MenuItem mnemonicParsing="true" onAction="#runProcessHandler" text="_New Process..."/>
+                        <MenuItem mnemonicParsing="true" onAction="#killProcessHandler" text="_Kill Process..."/>
+                        <MenuItem mnemonicParsing="true" onAction="#closeApplication" text="_Close"/>
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="true" text="Help">
+                    <items>
+                        <MenuItem mnemonicParsing="true" text="_About"/>
+                    </items>
+                </Menu>
+            </menus>
+        </MenuBar>
+    </top>
+    <center>
+<TableView fx:id="processView" BorderPane.alignment="CENTER">
+    <contextMenu>
+        <ContextMenu>
+            <items>
+                <MenuItem onAction="#killProcessHandler" text="Kill Process..."/>
+            </items>
+        </ContextMenu>
+    </contextMenu>
+</TableView>
+    </center>
+</BorderPane>

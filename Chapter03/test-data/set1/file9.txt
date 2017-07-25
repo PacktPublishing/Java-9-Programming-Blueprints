@@ -1,0 +1,90 @@
+<h1>Graece donan, Latine voluptatem vocant.</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atque his de rebus et splendida est eorum et illustris oratio. Duo Reges: constructio interrete. Quae cum magnifice primo dici viderentur, considerata minus probabantur. Explanetur igitur. Quod maxime efficit Theophrasti de beata vita liber, in quo multum admodum fortunae datur. Sit ista in Graecorum levitate perversitas, qui maledictis insectantur eos, a quibus de veritate dissentiunt. Modo etiam paulum ad dexteram de via declinavi, ut ad Pericli sepulcrum accederem. <a href='http://loripsum.net/' target='_blank'>Sed mehercule pergrata mihi oratio tua.</a> <code>Sed fortuna fortis;</code> Quid enim de amicitia statueris utilitatis causa expetenda vides. </p>
+
+<dl>
+	<dt><dfn>Restatis igitur vos;</dfn></dt>
+	<dd>Illud mihi a te nimium festinanter dictum videtur, sapientis omnis esse semper beatos;</dd>
+	<dt><dfn>Recte, inquit, intellegis.</dfn></dt>
+	<dd>Videmus in quodam volucrium genere non nulla indicia pietatis, cognitionem, memoriam, in multis etiam desideria videmus.</dd>
+	<dt><dfn>Praeclare hoc quidem.</dfn></dt>
+	<dd>Memini me adesse P.</dd>
+	<dt><dfn>Quis negat?</dfn></dt>
+	<dd>Quia dolori non voluptas contraria est, sed doloris privatio.</dd>
+	<dt><dfn>Audeo dicere, inquit.</dfn></dt>
+	<dd>Facit igitur Lucius noster prudenter, qui audire de summo bono potissimum velit;</dd>
+</dl>
+
+
+<p><code>Itaque his sapiens semper vacabit.</code> Vitiosum est enim in dividendo partem in genere numerare. Ut proverbia non nulla veriora sint quam vestra dogmata. Quae si potest singula consolando levare, universa quo modo sustinebit? <a href='http://loripsum.net/' target='_blank'>Videsne quam sit magna dissensio?</a> Minime vero probatur huic disciplinae, de qua loquor, aut iustitiam aut amicitiam propter utilitates adscisci aut probari. Piso, familiaris noster, et alia multa et hoc loco Stoicos irridebat: Quid enim? Sed tempus est, si videtur, et recta quidem ad me. Quid autem habent admirationis, cum prope accesseris? Deinde, ubi erubuit-vis enim est permagna naturae-, confugit illuc, ut neget accedere quicquam posse ad voluptatem nihil dolentis. Quo tandem modo? Quam illa ardentis amores excitaret sui! Cur tandem? </p>
+
+<p>Polemoni et iam ante Aristoteli ea prima visa sunt, quae paulo ante dixi. <i>Verum hoc idem saepe faciamus.</i> <i>Confecta res esset.</i> Sin autem ad animum, falsum est, quod negas animi ullum esse gaudium, quod non referatur ad corpus. </p>
+
+<h2>Nam et a te perfici istam disputationem volo, nec tua mihi oratio longa videri potest.</h2>
+
+<p>Quid ei reliquisti, nisi te, quoquo modo loqueretur, intellegere, quid diceret? Nam si beatus umquam fuisset, beatam vitam usque ad illum a Cyro extructum rogum pertulisset. Quid ergo attinet dicere: Nihil haberem, quod reprehenderem, si finitas cupiditates haberent? <a href='http://loripsum.net/' target='_blank'>An eiusdem modi?</a> Longum est enim ad omnia respondere, quae a te dicta sunt. Atque ut reliqui fures earum rerum, quas ceperunt, signa commutant, sic illi, ut sententiis nostris pro suis uterentur, nomina tamquam rerum notas mutaverunt. Id enim natura desiderat. Qui autem esse poteris, nisi te amor ipse ceperit? Quae quo sunt excelsiores, eo dant clariora indicia naturae. </p>
+
+<p><b>Audeo dicere, inquit.</b> Perturbationes autem nulla naturae vi commoventur, omniaque ea sunt opiniones ac iudicia levitatis. </p>
+
+<ul>
+	<li>Ad corpus diceres pertinere-, sed ea, quae dixi, ad corpusne refers?</li>
+	<li>Quae diligentissime contra Aristonem dicuntur a Chryippo.</li>
+	<li>Refert tamen, quo modo.</li>
+	<li>Quos quidem tibi studiose et diligenter tractandos magnopere censeo.</li>
+	<li>Tu vero, inquam, ducas licet, si sequetur;</li>
+</ul>
+
+
+<blockquote cite='http://loripsum.net'>
+	Verum esto: verbum ipsum voluptatis non habet dignitatem, nec nos fortasse intellegimus.
+</blockquote>
+
+
+<dl>
+	<dt><dfn>Nulla erit controversia.</dfn></dt>
+	<dd>Ut non sine causa ex iis memoriae ducta sit disciplina.</dd>
+	<dt><dfn>Frater et T.</dfn></dt>
+	<dd>Nam si propter voluptatem, quae est ista laus, quae possit e macello peti?</dd>
+</dl>
+
+
+<ul>
+	<li>Quid adiuvas?</li>
+	<li>Nobis Heracleotes ille Dionysius flagitiose descivisse videtur a Stoicis propter oculorum dolorem.</li>
+	<li>Ait enim se, si uratur, Quam hoc suave! dicturum.</li>
+</ul>
+
+
+<p>Tu autem, si tibi illa probabantur, cur non propriis verbis ea tenebas? Conferam tecum, quam cuique verso rem subicias; Eademne, quae restincta siti? <i>Tubulo putas dicere?</i> Cuius quidem, quoniam Stoicus fuit, sententia condemnata mihi videtur esse inanitas ista verborum. Cuius etiam illi hortuli propinqui non memoriam solum mihi afferunt, sed ipsum videntur in conspectu meo ponere. Quis est autem dignus nomine hominis, qui unum diem totum velit esse in genere isto voluptatis? Equidem etiam Epicurum, in physicis quidem, Democriteum puto. </p>
+
+<pre>
+Multosque etiam dolores curationis causa perferant, ut, si
+ipse usus membrorum non modo non maior, verum etiam minor
+futurus sit, eorum tamen species ad naturam revertatur?
+
+Quid de Platone aut de Democrito loquar?
+</pre>
+
+
+<p>Etsi ea quidem, quae adhuc dixisti, quamvis ad aetatem recte isto modo dicerentur. Equidem, sed audistine modo de Carneade? Quia voluptatem hanc esse sentiunt omnes, quam sensus accipiens movetur et iucunditate quadam perfunditur. </p>
+
+<h3>Quae contraria sunt his, malane?</h3>
+
+<p>Hic, qui utrumque probat, ambobus debuit uti, sicut facit re, neque tamen dividit verbis. Hic Speusippus, hic Xenocrates, hic eius auditor Polemo, cuius illa ipsa sessio fuit, quam videmus. </p>
+
+<pre>
+Semovenda est igitur voluptas, non solum ut recta sequamini,
+sed etiam ut loqui deceat frugaliter.
+
+Quo studio cum satiari non possint, omnium ceterarum rerum
+obliti níhil abiectum, nihil humile cogitant;
+</pre>
+
+
+<p><a href='http://loripsum.net/' target='_blank'>Sed haec nihil sane ad rem;</a> Atqui, inquam, Cato, si istud optinueris, traducas me ad te totum licebit. Illa sunt similia: hebes acies est cuipiam oculorum, corpore alius senescit; Quid igitur dubitamus in tota eius natura quaerere quid sit effectum? Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Idemne potest esse dies saepius, qui semel fuit? <b>Quis est tam dissimile homini.</b> Commoda autem et incommoda in eo genere sunt, quae praeposita et reiecta diximus; <b>Immo videri fortasse.</b> Sed quot homines, tot sententiae; Quo tandem modo? </p>
+
+<blockquote cite='http://loripsum.net'>
+	Materiam vero rerum et copiam apud hos exilem, apud illos uberrimam reperiemus.
+</blockquote>
+
+

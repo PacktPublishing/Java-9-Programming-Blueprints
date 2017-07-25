@@ -1,0 +1,83 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+    defaultConfig {
+        applicationId "com.steeplesoft.deskdroid"
+        minSdkVersion 21
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    dexOptions {
+        additionalParameters = ['--core-library']
+    }
+    packagingOptions {
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/eclipse.inf'
+        exclude 'readme.html'
+        exclude 'license.html'
+    }
+    signingConfigs {
+        release {
+            storeFile file(keystore)
+            storePassword password
+            keyAlias alias
+            keyPassword password
+        }
+    }
+    buildTypes {
+        release {
+            signingConfig signingConfigs.release
+        }
+    }
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+        exclude group: 'org.glassfish.hk2.external', module: 'javax.inject'
+    })
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support.constraint:constraint-layout:+'
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.steeplesoft:deskdroid-shared:1.0-SNAPSHOT'
+    compile 'io.jsonwebtoken:jjwt:0.7.0'
+
+//    compile('org.glassfish.jersey.containers:jersey-container-jetty-http:2.25.1', {
+//        exclude group: 'org.glassfish.hk2.external', module: 'javax.inject'
+//    })
+
+    compile ('org.glassfish.jersey.containers:jersey-container-grizzly2-http:2.25.1', {
+        exclude group: 'org.glassfish.hk2.external', module: 'javax.inject'
+    })
+
+    compile('org.glassfish.jersey.media:jersey-media-sse:2.25.1', {
+        exclude group: 'org.glassfish.hk2.external', module: 'javax.inject'
+    })
+
+    compile('org.glassfish.jersey.media:jersey-media-json-jackson:2.25.1', {
+        exclude group: 'org.glassfish.hk2.external', module: 'javax.inject'
+    })
+
+    compile ('org.glassfish.jaxb:jaxb-runtime:2.2.10', {
+        exclude group: 'org.glassfish.hk2.external', module: 'javax.inject'
+    })
+    compile 'javax.activation:activation:1.1.1'
+}
